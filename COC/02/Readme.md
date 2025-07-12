@@ -1,0 +1,1 @@
+for intializing a file with npm or node package manager,it a utility,which shows the process of creating a package.json file

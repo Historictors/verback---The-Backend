@@ -1,0 +1,20 @@
+{
+  "name": "index.js",
+  "version": "1.0.0",
+  "description": "introduction to deployment",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "snor",
+    "les",
+    "pokimon"
+  ],
+  "author": "snorlex",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.2.0",
+    "express": "^5.1.0"
+  }
+}
